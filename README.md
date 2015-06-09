@@ -2,7 +2,7 @@ basicRallyGrid
 =========================
 
 ## Overview
-
+Here is a simple sample app for practice
 
 ## License
 
